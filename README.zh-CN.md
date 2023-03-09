@@ -1,4 +1,4 @@
-Language: [English](./README.md) | 中文
+Language: [EN](./README.md) | 中文
 <h1 align="center">AutoHumachine</h1>
 <div align="center">
 人机协同驾驶车辆系统/人机共驾系统
