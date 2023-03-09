@@ -1,5 +1,8 @@
-# AutoHumachine
+Language: EN | 中文(./README.zh-CN.md)
+<h1 align="center">AutoHumachine</h1>
+<div align="center">
 Human-machine co-driving vehicle system
+</div>
 
 ## Project Plan
 The following modules are planned to be developed, and the control module for human-machine driving is currently centralized.
