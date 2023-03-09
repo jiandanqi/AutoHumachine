@@ -1,7 +1,7 @@
 Language: EN | [中文](./README.zh_CN.md) 
 <h1 align="center">AutoHumachine</h1>
 <div align="center">
-Human-machine co-driving vehicle system
+Human-computer Cooperative Driving Vehicle System/Automatic Driving Human-computer Interaction System/Human-computer Co-driving
 </div>
 
 ## Project Plan
