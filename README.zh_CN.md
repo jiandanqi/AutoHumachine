@@ -1,7 +1,7 @@
 Language: [EN](./README.md) | 中文
 <h1 align="center">AutoHumachine</h1>
 <div align="center">
-人机协同驾驶车辆系统/人机共驾系统
+人机协同驾驶车辆系统/自动驾驶人机交互系统/人机共驾
 </div>
 
 ## 项目计划
