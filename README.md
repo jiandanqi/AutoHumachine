@@ -1,4 +1,4 @@
-Language: EN | 中文(./README.zh-CN.md) 
+
 <h1 align="center">AutoHumachine</h1>
 <div align="center">
 Human-machine co-driving vehicle system
